@@ -4,7 +4,7 @@
 
 #### Develop by: [Code Club Vietnam](https://github.com/codeclubvn)
 
-#### Fanpage: [The FDEV](https://www.facebook.com/thefdev)
+#### Fanpage: [The FDev](https://www.facebook.com/thefdev)
 
 <br/>
 

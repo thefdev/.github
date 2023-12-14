@@ -1,6 +1,6 @@
 # We Are FDev 
 
-#### Founder FDEV: [Nguyen Tran Gia Bao - Yanji](https://github.com/ngtrgiabao)
+#### Founder FDev: [Nguyen Tran Gia Bao - Yanji](https://github.com/ngtrgiabao)
 
 #### Develop by: [Code Club Vietnam](https://github.com/codeclubvn)
 

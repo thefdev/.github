@@ -8,9 +8,6 @@
 
 <br/>
 
-![image](https://github.com/thefdev/.github/assets/95952006/1d2de363-d4bd-4a71-815e-57cf776f5a8f)
-
-
 ## Welcome to FDEV!
 
 FDEV is an abbreviation for Freelancer Developer and is a well-known organization that brings together freelancers to work together on a wide range of projects, serving both small and large clients locally and globally through online platforms.

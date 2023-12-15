@@ -6,6 +6,8 @@
 
 #### Fanpage: [The FDev](https://www.facebook.com/thefdev)
 
+![image](https://github.com/thefdev/.github/assets/95952006/fc761e41-ae7b-4490-bf4b-88a8da4191ec)
+
 <br/>
 
 ## Welcome to FDEV!
@@ -40,8 +42,6 @@ Our primary objective at FDev is to streamline the process of product fulfillmen
    - However, if you fail to meet any of the customer's pre-agreed requirements, we will deduct 10% of the project fee as per our agreement. This deduction will gradually increase based on the number of unmet requests agreed upon with us.
 
 By adhering to this process, we strive to ensure a smooth and efficient experience for all parties involved in the product fulfillment journey at FDev.
-
-![image](https://github.com/thefdev/.github/assets/95952006/e266d622-4e0b-4986-a21c-eb266406a9a3)
 
 ## Our benefit
 At FDev, we prioritize customer satisfaction and strive to provide the best experience for our Freelancers. This includes ensuring a steady stream of projects by actively seeking opportunities across various recruitment platforms, student projects, and other Freelance platforms.

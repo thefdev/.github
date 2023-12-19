@@ -61,7 +61,7 @@ What sets us apart from other Freelancer platforms is our unique approach of bri
 However, it is important for Freelancers to adhere to certain policies and commitments that we have in place. These include:
 
 1. Freelancers must ensure that they complete the project within 7 days after accepting the project agreement.
-2. While we cannot guarantee regular projects, we will always provide opportunities for Freelancers to work on projects, regardless of their size.
+2. While we cannot guarantee regular projects, we will always provide opportunities for Freelancers to work on projects, regardless of our customer size.
 3. If Freelancers face any obstacles or require additional time during project implementation, they should immediately report it to FDev for resolution.
 4. Failure to complete a project on time will result in a deduction of 25% of the Freelancer's profits for customer compensation and damages to our organization. If deadlines continue to be missed, we reserve the right to terminate the Freelancer's association with FDev.
 5. Once a Freelancer has declined a project offered to them, we will not entertain any requests for reconsideration or acceptance of the same project.
